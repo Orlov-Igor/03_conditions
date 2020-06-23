@@ -9,7 +9,6 @@ if (remainderTen === 1 && remainderHund !== 11){
 else if (remainderTen > 1 && remainderTen < 5 && remainderHund !== 12 && remainderHund !== 13 && remainderHund !== 14){
   alert('Вам ' + userYears + ' года');
   }
-
 else {
   alert('Вам ' + userYears + ' лет');
   }
